@@ -20,7 +20,7 @@ Your answer here
 	
 **2.	How much current is one LED consuming?**  
 
-	Your answer here   
+Your answer here   
 	
 	
 ** After commenting out gpioDriveStrengthStrongAlternateStrong and uncommenting gpioDriveStrengthWeakAlternateWeak**  
