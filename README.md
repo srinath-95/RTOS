@@ -1,10 +1,7 @@
-# lab-1-simplicity-exercise-srinathRTOS
-lab-1-simplicity-exercise-srinathRTOS created by GitHub Classroom
-
-ECEN 3360
-Digital Design Lab #1
-Simplicity Exercise
-Spring 2020
+									ECEN 3360
+									Digital Design Lab #1
+									Simplicity Exercise
+									Spring 2020
 
 Objective:  Install and become familiarized with the Silicon Labs’ Simplicity Studio development environment
 
