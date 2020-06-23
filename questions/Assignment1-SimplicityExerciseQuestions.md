@@ -4,7 +4,7 @@ See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 **1.	Pausing the Energy Profiler, with zooming in while using the linear scale, take the average current measurement to determine the following:**  
 
-	***a.	Total current drawn when both LEDs are OFF***  
+***a.	Total current drawn when both LEDs are OFF***  
 	
 	Your answer here  
 	
