@@ -20,11 +20,10 @@ Your answer here
 	
 **2.	How much current is one LED consuming?**  
 
-	Your answer here  
+	Your answer here   
 	
 	
 ** After commenting out gpioDriveStrengthStrongAlternateStrong and uncommenting gpioDriveStrengthWeakAlternateWeak**  
-	
 	
 **3.	Pausing the Energy Profiler, with zooming in with the linear scale, take the average current measurement to determine the following:**  
 
