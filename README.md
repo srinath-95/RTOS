@@ -1,5 +1,5 @@
-**ECEN 3360**  
-**Digital Design Lab #1**  
+**ECEN 3753**  
+**Lab #1**  
 **Simplicity Exercise**  
 **Spring 2020**  
 
