@@ -5,6 +5,8 @@
 
 **Objective:  Install and become familiarized with the Silicon Labs’ Simplicity Studio development environment**  
 
-Due:  Sunday, January 19th, 2020 at 11:59pm
+Due:  Wednesday, September 2nd, 2020 at 11:59pm
 
-Refer Canvas
+Refer Canvas: https://canvas.colorado.edu/courses/67166/assignments/823335
+
+The questions subfolder was added to contain questions to be answered for each assignment.
